@@ -24,5 +24,3 @@ function makeDiv(datum) {
     post.classList.add('bg-amber-300', 'p-2', 'rounded', 'flex', 'flex-col', 'gap-1');
   }
 }
-
-createDiv();
